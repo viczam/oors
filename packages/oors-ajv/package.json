@@ -7,7 +7,7 @@
   "dependencies": {
     "ajv": "6.10.2",
     "ajv-keywords": "3.4.1",
-    "apollo-server": "2.9.2",
+    "apollo-server": "2.14.2",
     "easevalidation": "0.28.0",
     "lodash": "4.17.15",
     "mongodb": "3.3.2",
